@@ -84,6 +84,7 @@ public class PDFViewActivity extends AppCompatActivity implements OnPageChangeLi
 
         pdfView = (PDFView) findViewById(R.id.pdfView);
         afterViews();
+        /*Comments section*/
     }
 
     /*@OptionsItem(R.id.pickFile)
